@@ -29,7 +29,20 @@
         modified:   src/index.css
         modified:   src/index.js
 
-2.3 HomeScreen Product Listing
+### 2.3 HomeScreen Product Listing
+
+        new file:   public/images/airpods.jpg
+        new file:   public/images/alexa.jpg
+        new file:   public/images/camera.jpg
+        new file:   public/images/mouse.jpg
+        new file:   public/images/phone.jpg
+        new file:   public/images/playstation.jpg
+        new file:   public/images/sample.jpg
+        modified:   src/App.js
+        new file:   src/components/Product.js
+        new file:   src/products.js
+        new file:   src/screens/HomeScreen.js
+
 2.4 Rating Component
 2.5 Implementing React Router
 2.6 Product Details Screen
