@@ -53,6 +53,12 @@
         new file:   src/components/Rating.js
         modified:   src/index.css
 
+### 2.5 Implementing React Router
 
-2.5 Implementing React Router
+        modified:   README.md
+        modified:   src/App.js
+        modified:   src/components/Header.js
+        modified:   src/components/Product.js
+        new file:   src/screens/ProductScreen.js
+
 2.6 Product Details Screen
