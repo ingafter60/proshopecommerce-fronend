@@ -43,6 +43,16 @@
         new file:   src/products.js
         new file:   src/screens/HomeScreen.js
 
-2.4 Rating Component
+### 2.4 Rating Component
+
+        modified:   README.md
+        modified:   package-lock.json
+        modified:   package.json
+        modified:   src/App.js
+        modified:   src/components/Product.js
+        new file:   src/components/Rating.js
+        modified:   src/index.css
+
+
 2.5 Implementing React Router
 2.6 Product Details Screen
