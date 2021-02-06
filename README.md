@@ -61,4 +61,7 @@
         modified:   src/components/Product.js
         new file:   src/screens/ProductScreen.js
 
-2.6 Product Details Screen
+### 2.6 Product Details Screen
+
+        modified:   src/index.css
+        modified:   src/screens/ProductScreen.js
